@@ -1,0 +1,20 @@
+{
+  "name": "watson-conversation-botkit-example",
+  "version": "0.0.2",
+  "author": "Mirko J. Rodriguez <mirko.rodriguezm@gmail.com>",
+  "private": true,
+  "description": "Bot example using botkit-middleware-watson with Botkit.",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "botkit": "^0.6.16",
+    "botkit-middleware-watson": "^1.7.1",
+    "cfenv": "1.0.x",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3"
+  },
+  "repository": {},
+  "engines": {
+    "node": "4.x"
+  }
+}
